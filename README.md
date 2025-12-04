@@ -1,5 +1,4 @@
 # KevTech 2025 – Help Desk & Active Directory Lab
-**Category:** Active Directory / Windows Administration
 
 **Description:**  
 This repository documents my hands-on work through the KevTech Help Desk Lab (2025), building skills in Active Directory, Group Policy, user management, and Windows administration. Each lab section is treated as a mini-project demonstrating key tasks and configurations.
