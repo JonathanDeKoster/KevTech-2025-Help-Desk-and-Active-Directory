@@ -135,6 +135,3 @@ Account Lockout Policy
 
 ---
 
-### Notes
-- Screenshots are placeholders; replace with actual images from your lab.
-- Each mini-project is self-contained, making it easy to add new parts as you progress through the KevTech labs.
