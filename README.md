@@ -11,8 +11,11 @@ Document and demonstrate core Active Directory and help desk tasks through mini-
 **What This Lab Covers**
 
 - Creating and managing user accounts and groups
+
 - Configuring Group Policy Objects (GPOs)
+
 - Setting up Windows clients and domain controllers
+
 - Managing permissions, OUs, and security settings
 
 ---
